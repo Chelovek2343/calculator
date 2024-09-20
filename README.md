@@ -1,1 +1,1 @@
-# calculator
+# calculator in python. Osmonov Ulugbek
