@@ -13,9 +13,9 @@ elif(operators == '-'):
     print(f'{a} - {b} = {sum}')
 elif(operators == '*'):
     _ = system('cls')
-    sum = a + b
+    sum = a * b
     print(f'{a} * {b} = {sum}')
 else:
     _ = system('cls')
-    sum = a + b
+    sum = a / b
     print(f'{a} / {b} = {sum}')
