@@ -20,7 +20,10 @@ elif(operators == '1'):
     _ = system('cls')
     sum = a * b
     print(f'{a} * {b} = {sum}')
-else:
+elif(operators == '2'):
     _ = system('cls')
     sum = a / b
     print(f'{a} / {b} = {sum}')
+else:
+    _ = system('cls')
+    print('Error')
