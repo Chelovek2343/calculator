@@ -6,7 +6,8 @@ operators = input('Choose operations: \n'
                   "1 - Multiplication \n"
                   "2 - Divide \n"
                   "3 - Substraction \n"
-                  "4 - Addition \n")
+                  "4 - Addition \n"
+                 "Write the operation: ")
 if(operators == '4'):
     _ = system('cls')
     sum = a + b
